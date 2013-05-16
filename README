@@ -1,0 +1,12 @@
+This project contains source files with handy extensions
+to libcouchbase for SDKs using libcouchbase. This project
+currently depends on libcouchbase headers (but does not
+link against it)
+
+Currently, this includes:
+
+* Vopt: a view options parser and configurator
+
+More features will be added as needed
+
+Mark Nunberg
